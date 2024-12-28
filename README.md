@@ -1,4 +1,5 @@
-This was my final project for CYBV-473 Violent Python course, taken in my Fall 2024 semester at the University of Arizona (Online). I earned an A in this course and achieved a perfect score of 100% on this project.
+# CYBV-473 Violent Python Final Project
+This is my final project for CYBV-473 Violent Python course, taken in my Fall 2024 semester at the University of Arizona (Online). I earned an A in this course and achieved a perfect score of 100% on this project.
 This course mainly focused on advanced practical applications of Python programming to support both offensive and defensive cybersecurity operations. <br>
 <br>
 My three biggest takeaways from this course were the following: <br>
